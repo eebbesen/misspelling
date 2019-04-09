@@ -10,7 +10,7 @@ A repo used for your first GitHub commit.
 * Take https://guides.github.com/activities/hello-world/ -- it is better than this project at getting you going with Git
 
 ## How to use this repo
-This project contains mispelling.txt which has many commonly misspelled words. And is itself misspelled!
+This project contains common_mispelling.txt which has many commonly misspelled words. And is itself misspelled!
 
 You can use it any way you want, but one way is to
 1. Fork the repo
