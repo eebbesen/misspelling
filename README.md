@@ -42,8 +42,10 @@ Find a misspelling and fix it! Try to pick one your peers haven't taken care of 
 
 ### Commit that change
 Make that change permanent(ish) and shareable.
-`git add .`
-`git commit -m 'fixing a misspelling'`
+```bash
+git add .
+git commit -m 'fixing a misspelling'
+```
 
 ### Push that change
 Back to the cloud we go!
