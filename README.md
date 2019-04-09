@@ -55,3 +55,6 @@ Back to the cloud we go!
 https://help.github.com/en/articles/pushing-to-a-remote
 
 ### Open a pull request
+This will send your changes to someone else (the forked repo often, but it could be someone elses fork). The recipient can review your changes, comment on them or merge them. Sometimes you will simply be ignored.
+
+https://guides.github.com/activities/hello-world/#pr
